@@ -14,4 +14,6 @@ Colors of the wires
   *  Purple = +5V Standby
   *  Black = Ground (0V)
   *  Gray = power is on (output)
-  *  Green = PS_ON -> (turn DC on by shorting to ground).
+  *  Green = PS_ON -> (turn DC on by shorting to ground)
+
+Every wires unused are covered with heat shrink tubes

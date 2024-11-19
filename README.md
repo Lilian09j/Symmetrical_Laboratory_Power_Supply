@@ -6,7 +6,7 @@ Furthermore, a DC-DC Buck step down converter is giving an other output this tim
 Binding posts (fiches babanes femelles) are present on the front of the laboratory power supply
 
 
-Power Supply AT with a 24 pins connector
+Power Supply ATX with a 24 pins connector
 
 Colors of the wires 
 

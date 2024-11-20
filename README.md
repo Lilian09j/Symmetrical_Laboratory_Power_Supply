@@ -6,7 +6,7 @@ Furthermore, a DC-DC Buck step down converter is giving an other output this tim
 Binding posts (fiches babanes femelles) are present on the front of the laboratory power supply
 
 
-Power Supply ATX with a 24 pins connector
+Laptop Power Supply : Liteon PS-5301-08HF 300W ATX SATA MOLEX with a 24 pins connector, 300 W
 
 Colors of the wires 
 

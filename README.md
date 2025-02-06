@@ -21,3 +21,8 @@ Colors of the wires
   *  Green = PS_ON -> (turn DC on by shorting to ground)
 
 Every wires unused are covered with heat shrink tubes
+
+Création d'une alimentation stabilisée de laboratoire à partir d'une alimentation de PC 300W
+Sorties fixes +12v, -12v et +5v
+Sortie variable 0-12v avec limitation de courant grâce à un convertisseur abaisseur de tensions Buck DC-DC
+Conception et impression 3D du cadre de l'alimentation
